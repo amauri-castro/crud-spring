@@ -1,4 +1,4 @@
-package com.amauri.crud_spring;
+package com.amauri;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
